@@ -87,6 +87,10 @@ Here is list of suitable blocks for redefinition:
 |--------------------------------------------------------------------
 | `table-open-tag`         | html `<table>` tag
 | `table-close-tag`        | html `</table>` tag
+| `table-thead-open-tag`   | html `<thead>` tag
+| `table-thead-close-tag`  | html `</thead>` tag
+| `table-tbody-open-tag`   | html `<tbody>` tag
+| `table-tbody-close-tag`  | html `</tbody>` tag
 | `global-actions`         | the bottom left block for global actions select
 | `global-filter-actions`  | cell with the buttons for filtering | `$showCancel`
 | `row-actions-edit`       | cell for rendering save & cancel buttons while editing row
